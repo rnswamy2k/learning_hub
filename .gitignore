@@ -2,3 +2,5 @@
 .envs
 envs/
 envs/*
+python/resources
+python/resources/*
